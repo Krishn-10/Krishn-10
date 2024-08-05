@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krishna aka Krishn-10
-- 👀 I’m interested in development and DP
-- 🌱 I’m currently learning Linux OP
+- 👀 I’m interested in development and CP
+- 🌱 I’m currently learning Linux OS
 - 💞️ I’m looking to collaborate on Backend esapecially DB's
 - 📫 How to reach me krishnasharma246810@gmail.com.
 - 😄 Pronouns: He/Him
